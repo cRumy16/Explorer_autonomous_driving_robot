@@ -11,7 +11,7 @@ float frequency; // Calculated Frequency
 int GasFW = A4;
 int GasBW = A5; 
 int Luce = A3; 
-
+ 
   
 
 int LuceMain = 11;
