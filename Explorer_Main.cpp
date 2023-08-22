@@ -10,7 +10,7 @@ int SXenB = 8;
 /* CENTRALE - CENTRO_DESTRA - CENTRO_SINISTRA - LATERALE_DESTRA - LATERALE_SINISTRA */
 int Trig[5]  {40,46,44,42,48};
 int Echo[5]  {41,47,45,43,49};
-
+ 
 
 int bafDX = 14; 
 int bafSX = 15; 
